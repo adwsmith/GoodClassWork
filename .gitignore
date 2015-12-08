@@ -6,6 +6,7 @@ tmp/
 *.tmp
 *.bak
 *.swp
+*.snap
 *~.nib
 local.properties
 .settings/
