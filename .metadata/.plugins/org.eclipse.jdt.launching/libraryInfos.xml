@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<libraryInfo home="D:\15 Fall\APCS\Programs\eclipse" version="1.8.0_60">
+<bootpath>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\resources.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\rt.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\sunrsasign.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\jsse.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\jce.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\charsets.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\jfr.jar"/>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="D:\15 Fall\APCS\Programs\eclipse\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 <libraryInfo home="C:\Users\asmith\Desktop\eclipse" version="1.8.0_60">
 <bootpath>
 <entry path="C:\Users\asmith\Desktop\eclipse\lib\resources.jar"/>

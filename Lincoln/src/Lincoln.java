@@ -5,6 +5,7 @@ public class Lincoln {
 		// TODO Auto-generated method stub
 		System.out.println("Lincoln Make a Tall, Tall Man");
 		System.out.println(10 + 15);
+		System.out.println("done");
 	}
 
 }
